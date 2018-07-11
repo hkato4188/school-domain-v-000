@@ -22,7 +22,7 @@ class School
     roster.each do |grade|
       
     binding.pry
-  end
+    end
   end
   
 end
