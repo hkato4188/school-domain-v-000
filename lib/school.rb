@@ -20,7 +20,7 @@ class School
   
   def sort
     roster.each do |grade|
-      
+      grade[1].sort
     binding.pry
     end
   end
