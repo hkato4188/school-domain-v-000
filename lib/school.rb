@@ -10,7 +10,7 @@ end
 
 
 School.new("struble")
-
+school.roster.length
 
 
 
