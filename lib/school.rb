@@ -9,10 +9,6 @@ class School
 end
 
 
-school = School.new("struble")
-school.roster.size
-
-
 
 
 
