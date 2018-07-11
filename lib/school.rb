@@ -11,7 +11,7 @@ end
 
 school = School.new("struble")
 school.roster.size
-school.name
+puts school.name
 
 
 
