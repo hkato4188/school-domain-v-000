@@ -9,9 +9,9 @@ class School
 end
 
 
-School.new("struble")
-School.roster.length
-
+school = School.new("struble")
+school.roster.length
+school.name
 
 
 
