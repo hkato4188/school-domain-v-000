@@ -10,7 +10,7 @@ end
 
 
 school = School.new("struble")
-school.roster.length
+school.roster.size
 school.name
 
 
