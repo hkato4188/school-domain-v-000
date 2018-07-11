@@ -9,7 +9,7 @@ class School
 end
 
 
-
+School.new("struble")
 
 
 
